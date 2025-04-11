@@ -1,0 +1,18 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.contact-form{
+    width: 50%;
+}
+
+h1{
+    text-align: center;
+}
+
+.form-submit{
+    width: 100%;
+}
